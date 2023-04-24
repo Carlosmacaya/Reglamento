@@ -2,8 +2,7 @@
          
 Para publicar una Práctica en la Comunidad Programadores Chile los requisitos mínimos son :
 
-     ✓ Práctica Remunerada : Desde $100.000
-     ✓ Beneficio : Transporte y/o Colación
+         ✓ Beneficio : Beneficios de la Compañia
 
 Para publicar cualquier Oferta Laboral en la Comunidad Programadores Chile los requisitos mínimos son :
 
@@ -15,34 +14,42 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 
 
 > **#OfertaLaboralProgramadoresChile**                                                                                                                                                                                                                             
-> **Nombre de la Empresa**:                                                                                                      
-> **Perfil Requerido**:  ( Conocimientos Requeridos para Postular )                                                                                                                              
-> **Nivel de Experticia**:  ( Practicante - Junior - Advance - Senior )                                                                                                            
-> **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista o Remoto )                                                       
-> **Horarios**:  ( Lunes a Viernes de xx:xx a xx:xx hrs o artículo 22 del Código del Trabajo )                                                                                                                  
-> **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                                                                                                                                                             
-> **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                                                                                                             
-> **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                                                                              
-> **Labores del Cargo**: (  • Lista de labores del cargo )                                                                                                                         
-> **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínimo y Máximo a Ofrecer )                                                                                                                                                             
-> **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV )                                                                                                                                                            
-> **Asunto del Correo**: ( OBLIGATORIO *** Titular que debe contener el asunto del correo )                                                                                                                                                             
-> **Enviar CV con Copia (CC) a**: cv@programadoreschile.org ( OBLIGATORIO *** )                                                                                                                                                              
+> **Nombre de la Empresa**:  Axity Chile                                                                                                    
+> **Perfil Requerido**:  Líder Técnico Salesforce                                                                                                                            
+> **Nivel de Experticia**:  Junior/Senior - Más de 2 años de experiencia en implementaciones                                                                                                           
+> **Ubicación**: Trabajo se realizara en forma remota                                                     
+> **Horarios**:  Lunes a Viernes de 09:00 a 18:30 horas                                                                                                                
+> **Benefícios**: Beneficios Compañia (seguro de vida, convenio colectivo, beneficios corporativos)                                                                                                                                                            
+> **Tipo de Contrato**: Indefinido                                                                                                                                                             
+> **Ambiente Laboral**: Grato, se trabaja en forma remota                                                                                                                                                             
+> **Labores del Cargo**: •	+2 años de experiencia o +1/2 implementaciones
+•	Principalmente módulo Customer Service
+•	Abierto a modelo de trabajo hibrido
+•	Funciones:
+o	Como líder técnico, brindará una gran experiencia en un área temática y trabajará dentro de un equipo de proyecto para revisar planificación cómo se entregarán los grandes hitos, supervisar el diseño y la implementación de la solución, 
+o	Aportar la experiencia y conocimiento funcional/técnica para revisar alternativas técnicas y recomendaciones de apoyo alineadas con los requerimientos tecnológicos y de negocio del cliente. 
+o	Anticipar, plantear y revisar sugerir planes de mitigación a problemas que supongan un riesgo para el proyecto. 
+o	Supervisar el progreso y la calidad. Seguimiento e informe de estado. Apoyado con equipo de Program Management
+                                                                                                                     
+> **Remuneración Aproximada**: 2.000.000 a 2.500.000                                                                                                                                                          
+> **Correo Electrónico**: carlos.macaya@axity.com                                                                                                                                                          
+> **Asunto del Correo**: en asunto indicar cargo al que postula "Líder Técnico Salesforce ", adjuntar cv actualizado, pretensiones de renta y disponbilidad                                                                                                                                                       
+> **Enviar CV con Copia (CC) a**: carlos.macaya@axity.com                                                                                                                                                             
 
 ## Remuneraciones Minimas Mensuales Permitidas para Publicar en la Comunidad :
 
-     ::: Pequeña y Mediana Empresa :::                                                       
-**Programador Practicante** : Desde 200.000 CLP Liquido + Beneficios          
+     :::  Empresa Grande :::                                                       
+**Programador Practicante** : 0        
 
-**Programador Junior** : Desde 800.000 CLP Liquido a 1.200.000 CLP Liquido                                                    
-**Programador Advance** : Desde 1.200.000 CLP Liquido a 1.800.000 CLP Liquido                                                   
-**Programador Senior** : Desde 1.800.000 CLP Liquido a 4.000.000 CLP Liquido  
-**Director de Tecnoclogía (CTO)** : Desde 3.000.000 CLP Liquido en adelante ... 
+**Programador Junior** : 0                                                   
+**Programador Advance** : Desde 1.500.000 a 2.500.000   CLP Liquido                                                   
+**Programador Senior** : 0
+**Director de Tecnoclogía (CTO)** : 0
 
      ::: Grandes Empresas e Instituciones Públicas :::
-**Programador Practicante** : Desde 300.000 CLP Liquido + Beneficios        
+**Programador Practicante** : 0       
 
-**Programador Junior** : Desde 1.000.000 CLP Liquido en adelante ...                                                    
-**Programador Advance** : Desde 1.800.000 CLP Liquido en adelante ...                                                    
-**Programador Senior** : Desde 2.800.000 CLP Liquido a en adelante ...  
-**Director de Tecnoclogía (CTO)** : Desde 4.000.000 CLP Liquido en adelante ... 
+**Programador Junior** : 0                                                   
+**Programador Advance** : 0..                                                    
+**Programador Senior** : 0 
+**Director de Tecnoclogía (CTO)** : 0
